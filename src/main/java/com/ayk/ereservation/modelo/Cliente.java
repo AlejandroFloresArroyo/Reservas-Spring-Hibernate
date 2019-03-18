@@ -31,8 +31,8 @@ public class Cliente {
 	@GenericGenerator(name = "system-uuid", strategy = "uuid2")
 	private String idCli;
 	private String nombreCli;
-	private String apellidoCLi;
-	private String identidicacionCli;
+	private String apellidoCli;
+	private String identificacionCli;
 	private String direccionCli;
 	private String telefonoCli;
 	private String emailCli;
